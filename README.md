@@ -12,6 +12,7 @@ Open your terminal or command prompt, navigate to the directory containing your 
 **Project Description:**
 
     This project is basically a demonstration of how one can use C++ to implement a simple working database management system. In this project, I have used various STL datastructures and used hashing for faster operations. 
+For Admin password, please refer to algo.h and then you can change it accordingly.
 
 It is a course project under the course DA212 lab course.
 
