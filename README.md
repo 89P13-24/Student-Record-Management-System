@@ -1,4 +1,4 @@
-# Student-Record-Management-System
+
 Author Name: Ishan Gupta
 
 It is record mangement system build in C++.
